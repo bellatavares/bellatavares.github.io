@@ -483,6 +483,7 @@ ol {
 	background: #cbcbcb;
 }
 
+
 /*---------------------
 	Resume section
 ----------------------*/
@@ -923,16 +924,16 @@ ol {
 .home-four-style .main-left-area {
 	position: relative;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#481340+0,ff0f3c+100,ff0f3c+100 */
-	background: #481340;
+	background: 	#ffffff;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #481340 0%, #ff0f3c 100%, #ff0f3c 100%);
+	background: -webkit-linear-gradient(top, #4e5166 0%, #ff0f3c 100%, #ff0f3c 100%);
 	/* Chrome10-25,Safari5.1-6 */
 	background: -webkit-gradient(linear, left top, left bottom, from(#481340), color-stop(100%, #ff0f3c), to(#ff0f3c));
-	background: -o-linear-gradient(top, #481340 0%, #ff0f3c 100%, #ff0f3c 100%);
-	background: linear-gradient(to bottom, #481340 0%, #ff0f3c 100%, #ff0f3c 100%);
+	background: -o-linear-gradient(top, #4e5166 0%, #ff0f3c 100%, #ff0f3c 100%);
+	background: linear-gradient(to bottom, #4e5166 0%, #ff0f3c 100%, #ff0f3c 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#481340', endColorstr='#ff0f3c', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffc5', endColorstr='#ff0f3c', GradientType=0);
 	/* IE6-9 */
 }
 
